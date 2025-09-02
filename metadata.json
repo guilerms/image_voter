@@ -1,0 +1,5 @@
+{
+  "name": "Image Voting Priority",
+  "description": "An in-browser web app for a group to vote on images and create a prioritized list. Upload images, set votes per person, and share a link to start voting.",
+  "requestFramePermissions": []
+}
